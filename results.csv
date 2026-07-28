@@ -1,0 +1,251 @@
+ad_id,decision,corrected_value,reason
+AD-5001,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5002,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5003,auto_fix,39.0,The advertised price 35.90 does not match the catalogue price 39.00.
+AD-5004,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5005,escalate,,"The claim ""hypoallergenic formula"" is unsupported because the product does not have the ""hypoallergenic"" attribute."
+AD-5006,escalate,,The product is discontinued and requires human review.
+AD-5007,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5008,escalate,,"The headline contains the prohibited claim ""reverses ageing""."
+AD-5009,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5010,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5011,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5012,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5013,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5014,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5015,escalate,,"The claim ""clinically proven"" is unsupported because the product does not have the ""clinically_tested"" attribute."
+AD-5016,auto_fix,139.0,The advertised price 149.00 does not match the catalogue price 139.00.
+AD-5017,auto_fix,24.0,The advertised price 34.00 does not match the catalogue price 24.00.
+AD-5018,escalate,,The product is discontinued and requires human review.
+AD-5019,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5020,auto_fix,39.0,The advertised price 59.00 does not match the catalogue price 39.00.
+AD-5021,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5022,auto_fix,39.0,The advertised price 35.90 does not match the catalogue price 39.00.
+AD-5023,auto_fix,24.0,The advertised price 29.00 does not match the catalogue price 24.00.
+AD-5024,escalate,,The product is discontinued and requires human review.
+AD-5025,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5026,escalate,,The product is discontinued and requires human review.
+AD-5027,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5028,escalate,,The product is discontinued and requires human review.
+AD-5029,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5030,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5031,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5032,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5033,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5034,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5035,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5036,escalate,,The product is discontinued and requires human review.
+AD-5037,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5038,escalate,,The product is discontinued and requires human review.
+AD-5039,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5040,auto_fix,59.0,The advertised price 54.00 does not match the catalogue price 59.00.
+AD-5041,escalate,,The product is discontinued and requires human review.
+AD-5042,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5043,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5044,auto_fix,49.0,The advertised price 56.05 does not match the catalogue price 49.00.
+AD-5045,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5046,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5047,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5048,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5049,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5050,auto_fix,134.0,The advertised price 130.90 does not match the catalogue price 134.00.
+AD-5051,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5052,auto_fix,139.0,The advertised price 159.00 does not match the catalogue price 139.00.
+AD-5053,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5054,auto_fix,14.5,The advertised price 4.50 does not match the catalogue price 14.50.
+AD-5055,auto_fix,14.5,The advertised price 24.50 does not match the catalogue price 14.50.
+AD-5056,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5057,escalate,,"The headline contains the prohibited claim ""doctor recommended #1""."
+AD-5058,escalate,,"The claim ""hypoallergenic formula"" is unsupported because the product does not have the ""hypoallergenic"" attribute."
+AD-5059,auto_fix,29.9,The advertised price 34.90 does not match the catalogue price 29.90.
+AD-5060,escalate,,The product is discontinued and requires human review.
+AD-5061,auto_fix,59.9,The advertised price 54.90 does not match the catalogue price 59.90.
+AD-5062,escalate,,The product is discontinued and requires human review.
+AD-5063,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5064,auto_fix,24.0,The advertised price 34.00 does not match the catalogue price 24.00.
+AD-5065,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5066,escalate,,"The claim ""fragrance-free"" is unsupported because the product does not have the ""fragrance_free"" attribute."
+AD-5067,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5068,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5069,escalate,,"The claim ""fragrance-free"" is unsupported because the product does not have the ""fragrance_free"" attribute."
+AD-5070,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5071,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5072,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5073,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5074,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5075,escalate,,"The claim ""hypoallergenic formula"" is unsupported because the product does not have the ""hypoallergenic"" attribute."
+AD-5076,auto_fix,64.0,The advertised price 60.90 does not match the catalogue price 64.00.
+AD-5077,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5078,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5079,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5080,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5081,auto_fix,19.9,The advertised price 9.90 does not match the catalogue price 19.90.
+AD-5082,escalate,,"The claim ""100% waterproof"" is unsupported because the product does not have the ""waterproof"" attribute."
+AD-5083,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5084,auto_fix,9.9,The advertised price 14.90 does not match the catalogue price 9.90.
+AD-5085,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5086,auto_fix,29.9,The advertised price 36.95 does not match the catalogue price 29.90.
+AD-5087,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5088,auto_fix,39.0,The advertised price 35.90 does not match the catalogue price 39.00.
+AD-5089,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5090,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5091,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5092,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5093,escalate,,The product is discontinued and requires human review.
+AD-5094,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5095,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5096,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5097,auto_fix,99.0,The advertised price 94.00 does not match the catalogue price 99.00.
+AD-5098,auto_fix,19.9,The advertised price 14.90 does not match the catalogue price 19.90.
+AD-5099,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5100,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5101,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5102,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5103,auto_fix,14.5,The advertised price 4.50 does not match the catalogue price 14.50.
+AD-5104,escalate,,"The claim ""100% vegan"" is unsupported because the product does not have the ""vegan"" attribute."
+AD-5105,escalate,,The product is discontinued and requires human review.
+AD-5106,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5107,auto_fix,29.0,The advertised price 39.00 does not match the catalogue price 29.00.
+AD-5108,escalate,,The product is discontinued and requires human review.
+AD-5109,auto_fix,49.0,The advertised price 69.00 does not match the catalogue price 49.00.
+AD-5110,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5111,escalate,,"The claim ""hypoallergenic formula"" is unsupported because the product does not have the ""hypoallergenic"" attribute."
+AD-5112,auto_fix,19.9,The advertised price 24.90 does not match the catalogue price 19.90.
+AD-5113,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5114,auto_fix,24.0,The advertised price 44.00 does not match the catalogue price 24.00.
+AD-5115,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5116,escalate,,The product is discontinued and requires human review.
+AD-5117,auto_fix,84.0,The advertised price 91.05 does not match the catalogue price 84.00.
+AD-5118,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5119,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5120,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5121,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5122,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5123,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5124,auto_fix,59.9,The advertised price 79.90 does not match the catalogue price 59.90.
+AD-5125,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5126,auto_fix,104.0,The advertised price 99.00 does not match the catalogue price 104.00.
+AD-5127,escalate,,"The claim ""100% vegan"" is unsupported because the product does not have the ""vegan"" attribute."
+AD-5128,escalate,,"The claim ""fragrance-free"" is unsupported because the product does not have the ""fragrance_free"" attribute."
+AD-5129,auto_fix,79.0,The advertised price 99.00 does not match the catalogue price 79.00.
+AD-5130,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5131,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5132,escalate,,The product is discontinued and requires human review.
+AD-5133,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5134,escalate,,"The headline contains the prohibited claim ""reverses ageing""."
+AD-5135,escalate,,The product is discontinued and requires human review.
+AD-5136,auto_fix,19.5,The advertised price 29.50 does not match the catalogue price 19.50.
+AD-5137,auto_fix,34.9,The advertised price 24.90 does not match the catalogue price 34.90.
+AD-5138,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5139,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5140,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5141,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5142,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5143,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5144,escalate,,"The claim ""fragrance-free"" is unsupported because the product does not have the ""fragrance_free"" attribute."
+AD-5145,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5146,auto_fix,139.0,The advertised price 144.00 does not match the catalogue price 139.00.
+AD-5147,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5148,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5149,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5150,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5151,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5152,escalate,,The product is discontinued and requires human review.
+AD-5153,escalate,,"The claim ""fragrance-free"" is unsupported because the product does not have the ""fragrance_free"" attribute."
+AD-5154,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5155,escalate,,"The claim ""100% waterproof"" is unsupported because the product does not have the ""waterproof"" attribute."
+AD-5156,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5157,auto_fix,49.0,The advertised price 45.90 does not match the catalogue price 49.00.
+AD-5158,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5159,auto_fix,49.0,The advertised price 44.00 does not match the catalogue price 49.00.
+AD-5160,auto_fix,99.0,The advertised price 106.05 does not match the catalogue price 99.00.
+AD-5161,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5162,auto_fix,79.0,The advertised price 89.00 does not match the catalogue price 79.00.
+AD-5163,escalate,,The product is discontinued and requires human review.
+AD-5164,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5165,auto_fix,59.9,The advertised price 54.90 does not match the catalogue price 59.90.
+AD-5166,escalate,,"The claim ""clinically proven"" is unsupported because the product does not have the ""clinically_tested"" attribute."
+AD-5167,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5168,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5169,escalate,,The product is discontinued and requires human review.
+AD-5170,escalate,,The product is discontinued and requires human review.
+AD-5171,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5172,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5173,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5174,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5175,escalate,,"The claim ""active noise cancelling"" is unsupported because the product does not have the ""noise_cancelling"" attribute."
+AD-5176,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5177,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5178,escalate,,The product is discontinued and requires human review.
+AD-5179,escalate,,"The claim ""active noise cancelling"" is unsupported because the product does not have the ""noise_cancelling"" attribute."
+AD-5180,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5181,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5182,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5183,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5184,escalate,,The product is discontinued and requires human review.
+AD-5185,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5186,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5187,escalate,,"The headline contains the prohibited claim ""doctor recommended #1""."
+AD-5188,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5189,escalate,,The product is discontinued and requires human review.
+AD-5190,escalate,,"The claim ""100% waterproof"" is unsupported because the product does not have the ""waterproof"" attribute."
+AD-5191,escalate,,The product is discontinued and requires human review.
+AD-5192,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5193,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5194,escalate,,"The claim ""active noise cancelling"" is unsupported because the product does not have the ""noise_cancelling"" attribute."
+AD-5195,escalate,,"The claim ""bpa-free"" is unsupported because the product does not have the ""bpa_free"" attribute."
+AD-5196,auto_fix,29.0,The advertised price 19.00 does not match the catalogue price 29.00.
+AD-5197,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5198,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5199,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5200,escalate,,"The claim ""bpa-free"" is unsupported because the product does not have the ""bpa_free"" attribute."
+AD-5201,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5202,auto_fix,14.5,The advertised price 9.50 does not match the catalogue price 14.50.
+AD-5203,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5204,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5205,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5206,escalate,,"The headline contains the prohibited claim ""doctor recommended #1""."
+AD-5207,escalate,,The product is discontinued and requires human review.
+AD-5208,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5209,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5210,escalate,,"The claim ""active noise cancelling"" is unsupported because the product does not have the ""noise_cancelling"" attribute."
+AD-5211,auto_fix,39.0,The advertised price 34.00 does not match the catalogue price 39.00.
+AD-5212,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5213,auto_fix,29.0,The advertised price 34.00 does not match the catalogue price 29.00.
+AD-5214,auto_fix,79.0,The advertised price 86.05 does not match the catalogue price 79.00.
+AD-5215,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5216,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5217,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5218,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5219,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5220,auto_fix,14.5,The advertised price 21.55 does not match the catalogue price 14.50.
+AD-5221,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5222,escalate,,"The headline contains the prohibited claim ""reverses ageing""."
+AD-5223,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5224,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5225,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5226,auto_fix,39.0,The advertised price 59.00 does not match the catalogue price 39.00.
+AD-5227,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5228,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5229,escalate,,"The headline contains the prohibited claim ""prevents covid-19""."
+AD-5230,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5231,escalate,,The product is discontinued and requires human review.
+AD-5232,escalate,,The product is discontinued and requires human review.
+AD-5233,escalate,,The product is discontinued and requires human review.
+AD-5234,auto_fix,29.9,The advertised price 34.90 does not match the catalogue price 29.90.
+AD-5235,escalate,,"The claim ""100% waterproof"" is unsupported because the product does not have the ""waterproof"" attribute."
+AD-5236,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5237,escalate,,The product is discontinued and requires human review.
+AD-5238,escalate,,"The headline contains the prohibited claim ""guaranteed weight loss""."
+AD-5239,escalate,,"The headline contains the prohibited claim ""cures eczema""."
+AD-5240,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5241,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5242,auto_fix,59.0,The advertised price 54.00 does not match the catalogue price 59.00.
+AD-5243,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5244,auto_fix,129.0,The advertised price 136.05 does not match the catalogue price 129.00.
+AD-5245,escalate,,"The claim ""100% vegan"" is unsupported because the product does not have the ""vegan"" attribute."
+AD-5246,auto_fix,139.0,The advertised price 149.00 does not match the catalogue price 139.00.
+AD-5247,pass,,"The product is active, the price matches, and no prohibited or unsupported claim was found."
+AD-5248,escalate,,"The claim ""spf 50 protection"" is unsupported because the product does not have the ""spf50"" attribute."
+AD-5249,escalate,,"The claim ""active noise cancelling"" is unsupported because the product does not have the ""noise_cancelling"" attribute."
+AD-5250,escalate,,The product is discontinued and requires human review.
